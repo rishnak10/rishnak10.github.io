@@ -101,3 +101,9 @@ h1 span{
     border-radius: 10px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+ul{
+    list-style:none;
+}
+li{
+    display:inline-block;
+}
